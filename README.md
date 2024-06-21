@@ -11,9 +11,13 @@ K-Means algorithm is an iterative algorithm that tries to partition the dataset 
 Dependencies
 
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Sklearn
 
 Install missing dependencies using,
